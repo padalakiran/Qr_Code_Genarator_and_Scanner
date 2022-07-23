@@ -2,31 +2,25 @@
 
 ## Aim of Project
 
-This project Is Used to Create and and store data in text and validate qr code through txt file
-
-This type of projects basically used in student or employ attendance management
+This project Is Used to Create and and store data in text and validate qr code through txt file. This type of projects basically used in student or employ attendance management
 
 ## Requirements
-1. Python3
+➢ Python3
 
 ## Modules Used in Project
 
-1.qrcode
+➢ qrcode &nbsp; &nbsp;
+➢ string &nbsp; &nbsp;
+➢ secrets &nbsp; &nbsp;
+➢ tkinter </br>
+➢ os &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+➢ cv2 &nbsp; &nbsp; &nbsp; &nbsp;
+➢ numpy &nbsp; &nbsp;
+➢ pyzbar &nbsp; &nbsp;
 
-2.string
+## Learning Outcome
 
-3.secrets
-
-4.tkinter
-
-5.os
-
-6.cv2
-
-7.numpy
-
-
-8.pyzbar 
+From This Project We Got Familear With CV2 Module in Python.
 
 ## Final output of Project
 
